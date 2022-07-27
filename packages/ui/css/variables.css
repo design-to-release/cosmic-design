@@ -82,50 +82,50 @@
     --font-md: 1.4rem;
     --font-lg: 1.6rem;
     --font-xl: 2.0rem;
-    --font-2xl: 2.4rem;
-    --font-3xl: 3.0rem;
+    --font-xxl: 2.4rem;
+    --font-xxxl: 3.0rem;
 
     --leading-xs: 1.4rem;
     --leading-sm: 1.8rem;
     --leading-md: 2.1rem;
     --leading-lg: 2.4rem;
     --leading-xl: 3.0rem;
-    --leading-2xl: 3.6rem;
+    --leading-xxl: 3.6rem;
 
     --icon-xs: 1.2rem;
     --icon-sm: 1.2rem;
     --icon-md: 1.4rem;
     --icon-lg: 1.6rem;
     --icon-xl: 2.0rem;
-    --icon-2xl: 2.4rem;
+    --icon-xxl: 2.4rem;
 
     --height-xs: 2.0rem;
     --height-sm: 2.4rem;
     --height-md: 3.2rem;
     --height-lg: 4.0rem;
     --height-xl: 4.8rem;
-    --height-2xl: 5.6rem;
+    --height-xxl: 5.6rem;
 
     --width-xs: 2.0rem;
     --width-sm: 2.4rem;
     --width-md: 3.2rem;
     --width-lg: 4.0rem;
     --width-xl: 4.8rem;
-    --width-2xl: 5.6rem;
+    --width-xxl: 5.6rem;
 
     --padding-xs: 0.6rem;
     --padding-sm: 0.8rem;
     --padding-md: 1.2rem;
     --padding-lg: 1.6rem;
     --padding-xl: 2.0rem;
-    --padding-2xl: 2.4rem;
+    --padding-xxl: 2.4rem;
 
     --margin-xs: 0.4rem;
     --margin-sm: 0.4rem;
     --margin-md: 0.6rem;
     --margin-lg: 0.6rem;
     --margin-xl: 0.6rem;
-    --margin-2xl: 0.6rem;
+    --margin-xxl: 0.6rem;
 
     --font-thin: 100;
     --font-extralight: 200;

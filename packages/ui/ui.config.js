@@ -82,7 +82,7 @@ module.exports = defineConfig({
                 'md': ['var(--font-md)', 'var(--leading-xs)'],
                 'lg': ['var(--font-lg)', 'var(--leading-xs)'],
                 'xl': ['var(--font-xl)', 'var(--leading-xs)'],
-                '2xl': ['var(--font-2xl)', 'var(--leading-xs)'],
+                'xxl': ['var(--font-xxl)', 'var(--leading-xs)'],
             },
             width: {
                 ...moreSpacingExtends,

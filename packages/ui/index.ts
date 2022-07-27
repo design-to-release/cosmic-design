@@ -1,4 +1,4 @@
-export type Size = '2xs' | 'xs' | 'md' | 'lg' | 'xl' | '2xl' | '3xl';
+export type Size = 'xs' | 'sm' | 'md' | 'lg' | 'xl' | 'xxl';
 export type State = 'normal' | 'hover' | 'actived' | 'disabled';
 
 import './button/button.css';
@@ -60,3 +60,5 @@ export { default as dialog } from './dialog/dialog.module.css';
 export { default as avatar } from './avatar/avatar.module.css';
 export { default as result } from './result/result.module.css';
 export { default as loading } from './loading/loading.module.css';
+
+export { default as icon } from './icon/icon.module.css';

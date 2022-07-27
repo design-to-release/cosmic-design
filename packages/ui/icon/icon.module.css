@@ -1,0 +1,15 @@
+.icon {
+    composes: -v-icon from global;
+    display: inline-block;
+    vertical-align: middle;
+    font-style: normal;
+    line-height: 0;
+    text-align: center;
+    text-transform: none;
+    text-rendering: optimizeLegibility;
+    color: var(--color-black);
+}
+
+.icon g {
+    transform-origin: 0 0;
+}
